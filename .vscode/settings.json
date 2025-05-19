@@ -1,0 +1,8 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/__fake_bpy__"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/__fake_bpy__"
+  ]
+}
